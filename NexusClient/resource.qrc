@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/address.png</file>
+        <file>resource/image/chat.png</file>
+        <file>resource/image/theme.png</file>
+        <file>resource/image/user-add.png</file>
+    </qresource>
+</RCC>

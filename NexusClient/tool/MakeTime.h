@@ -1,3 +1,4 @@
+#pragma once
 
 #include"QString.h"
 #include"QDateTime"
@@ -14,7 +15,6 @@ static inline QString MakeTime()
     int64_t timestamp = QDateTime::currentMSecsSinceEpoch();
     // 先把时间戳 转换成 QDateTime 对象
     QDateTime time = QDateTime::fromMSecsSinceEpoch(timestamp);
-
     return time.toString("MM-dd HH:mm:ss");
 }
 

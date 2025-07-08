@@ -1,5 +1,5 @@
 #pragma once
-namespace model
+namespace common
 {
 
 enum MessageType{

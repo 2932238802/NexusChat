@@ -9,11 +9,7 @@ set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
-
-
 find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets)
-
-
 set(APP_SOURCES
     main.cpp
     ClientWindow.cpp
@@ -29,19 +25,20 @@ set(MODEL_HEADERS
 
     model/Message.h
 )
-
-
 set(FACTORY_HEADERS
     factory/MsgFac.h
 )
-
-
 set(TOOL_HEADERS
     tool/MakeId.h
     tool/MakeTime.h
+    tool/Byte2Icon.h
+    tool/ReadFile.h
 )
 
-
+set(COMMON_HEADERS
+    common/MessageType.h
+    common/MyLog.h
+)
 
 qt_add_executable(NexusClient
     WIN32 MACOSX_BUNDLE
@@ -50,8 +47,8 @@ qt_add_executable(NexusClient
     ${MODEL_HEADERS}
     ${FACTORY_HEADERS}
     ${TOOL_HEADERS}
-    common/MessageType.h
-    common/MessageType.h
+    ${COMMON_HEADERS}
+    resource.qrc
 )
 
 
