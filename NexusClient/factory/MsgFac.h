@@ -20,7 +20,7 @@ class MsgFac{
      * @return
      */
     static Message Make(
-        common::MessageType type,                       // 消息的类型
+        common::MessageType type,               // 消息的类型
         const QString& chat_sessiong_id,        // 对应的会话是什么
         const UserInfo& sender,                 // 发送的内容是什么
         const QByteArray& content,              // 谁发送的

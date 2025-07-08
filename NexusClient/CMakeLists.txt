@@ -27,6 +27,8 @@ set(MODEL_HEADERS
 )
 set(FACTORY_HEADERS
     factory/MsgFac.h
+
+
 )
 set(TOOL_HEADERS
     tool/MakeId.h
@@ -38,6 +40,12 @@ set(TOOL_HEADERS
 set(COMMON_HEADERS
     common/MessageType.h
     common/MyLog.h
+    common/Status.h
+)
+
+set(STYLE_HEADERS
+    style/ButtonStyle.h
+    style/LineEditStyle.h
 )
 
 qt_add_executable(NexusClient
@@ -48,7 +56,19 @@ qt_add_executable(NexusClient
     ${FACTORY_HEADERS}
     ${TOOL_HEADERS}
     ${COMMON_HEADERS}
+    ${STYLE_HEADERS}
     resource.qrc
+    init/InitSignalSlot.cpp
+    init/InitMainWindow.cpp
+    init/InitNavigation.cpp
+
+    load/LoadAccess.cpp
+    load/LoadChat.cpp
+    load/LoadFriend.cpp
+    init/InitContacts.cpp
+    init/InitForchat.cpp
+
+
 )
 
 

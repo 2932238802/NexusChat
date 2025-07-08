@@ -7,8 +7,6 @@
 #include <iostream>
 #include <string>
 
-
-//
 // #define tag QString("[%1]").arg(QString::number(__LINE__))
 namespace common
 {

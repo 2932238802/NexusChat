@@ -1,0 +1,4 @@
+#ifndef INITCONTACTS_H
+#define INITCONTACTS_H
+
+#endif // INITCONTACTS_H

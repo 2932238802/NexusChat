@@ -3,6 +3,11 @@
         <file>resource/image/address.png</file>
         <file>resource/image/chat.png</file>
         <file>resource/image/theme.png</file>
-        <file>resource/image/user-add.png</file>
+        <file>resource/image/头像.png</file>
+        <file>resource/image/avator.png</file>
+        <file>resource/image/contact.png</file>
+        <file>resource/image/conversationwindow.png</file>
+        <file>resource/image/request.png</file>
+        <file>resource/image/addfriend.png</file>
     </qresource>
 </RCC>
