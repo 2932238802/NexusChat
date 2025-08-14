@@ -10,6 +10,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
 find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets)
+find_package(Qt6 REQUIRED COMPONENTS Widgets)
 set(APP_SOURCES
     main.cpp
     ClientWindow.cpp
@@ -18,18 +19,15 @@ set(APP_HEADERS
     ClientWindow.h
 )
 
-
 set(MODEL_HEADERS
     model/UserInfo.h
     model/ChatSessionInfo.h
-
     model/Message.h
 )
 set(FACTORY_HEADERS
     factory/MsgFac.h
-
-
 )
+
 set(TOOL_HEADERS
     tool/MakeId.h
     tool/MakeTime.h
@@ -46,6 +44,11 @@ set(COMMON_HEADERS
 set(STYLE_HEADERS
     style/ButtonStyle.h
     style/LineEditStyle.h
+    style/ScrollbarStyle.h
+)
+
+set(CONPONENT_HEADERS
+    component/midsessionfriendaread.h
 )
 
 qt_add_executable(NexusClient
@@ -57,6 +60,7 @@ qt_add_executable(NexusClient
     ${TOOL_HEADERS}
     ${COMMON_HEADERS}
     ${STYLE_HEADERS}
+    ${CONPONENT_HEADERS}
     resource.qrc
     init/InitSignalSlot.cpp
     init/InitMainWindow.cpp
@@ -67,10 +71,10 @@ qt_add_executable(NexusClient
     load/LoadFriend.cpp
     init/InitContacts.cpp
     init/InitForchat.cpp
-
+    component/midsessionfriendaread.cpp
+    Debug.h
 
 )
-
 
 source_group("Source Files" FILES ${APP_SOURCES})
 source_group("Header Files" FILES ${APP_HEADERS})
@@ -78,12 +82,11 @@ source_group("Header Files\\Model"  FILES ${MODEL_HEADERS})
 source_group("Header Files\\Factory" FILES ${FACTORY_HEADERS})
 source_group("Header Files\\Tool"   FILES ${TOOL_HEADERS})
 
-
-
 target_link_libraries(NexusClient PRIVATE
     Qt::Core
     Qt::Widgets
 )
+target_link_libraries(NexusClient PRIVATE Qt6::Widgets)
 
 
 include(GNUInstallDirs)

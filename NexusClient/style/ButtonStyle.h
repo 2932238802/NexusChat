@@ -1,3 +1,4 @@
+#pragma once
 #include"QString"
 
 
@@ -8,7 +9,7 @@
 #include "QString"
 
 namespace style {
-const QString NAV_BUTTON_INACTIVE = R"(
+inline const QString NAV_BUTTON_INACTIVE = R"(
     QPushButton {
         background-color: rgb(120, 120, 120);
         border: none;
@@ -23,7 +24,7 @@ const QString NAV_BUTTON_INACTIVE = R"(
     }
 )";
 
-const QString NAV_BUTTON_ACTIVE = R"(
+inline const QString NAV_BUTTON_ACTIVE = R"(
     QPushButton {
 
         background-color: rgb(210, 210, 210);

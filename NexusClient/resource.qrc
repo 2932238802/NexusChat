@@ -9,5 +9,6 @@
         <file>resource/image/conversationwindow.png</file>
         <file>resource/image/request.png</file>
         <file>resource/image/addfriend.png</file>
+        <file>resource/image/dog.png</file>
     </qresource>
 </RCC>
