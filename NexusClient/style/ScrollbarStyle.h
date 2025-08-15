@@ -20,6 +20,7 @@ inline const QString MIDSCROLLERBAY_HEIGHT =  R"(
     }
 )";
 
+// 水平的平滑移动
 inline const QString MIDSCROLLERBAY_WIDTH = R"(
     QScrollBar:horizontal {
         border: none;
@@ -37,7 +38,7 @@ inline const QString MIDSCROLLERBAY_FRIENDITEM = R"(
 // 顶置那个部分 中间模块的 头像设置 样式设置
 inline const QString MIDSCROLLERBAY_AVATOR = R"(
     QPushButton {
-    border:none;
+    border: none;
 }
 )";
 

@@ -11,8 +11,10 @@
 #include"../Debug.h"
 #include"../style/ScrollbarStyle.h"
 #include"../common/MyLog.h"
+#include"../style/ButtonStyle.h"
 
 using namespace common;
+class SessionFriendItem;
 
 ////////////////////////////////////////////////
 /// 中间层
@@ -34,11 +36,12 @@ public:
 public:
     // 官方文档设置
     void paintEvent(QPaintEvent* event) override;
-
+    void OnSessionChildClick(SessionFriendItem* item);
 
 private:
     // 后续往 container 内部的 增加元素
     QWidget* container;
+    SessionFriendItem* current = nullptr; // 记录当前选择项
 
 signals:
 };
@@ -54,8 +57,19 @@ public:
                       const QString&name,
                       const QString&text
                       );
+public:
+    /**
+     * @brief MousePressEvent
+     * @param event
+     */
+    void mousePressEvent(QMouseEvent* event) override;
+    void enterEvent(QEnterEvent*event) override;
+    void leaveEvent(QEvent* event) override;
+    void SetSatus(bool status);
 
+signals:
 
+    void Clicked(SessionFriendItem* item);
 
 private:
     // 父亲组件 SessionFriendArea

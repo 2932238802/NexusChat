@@ -1,13 +1,5 @@
 #pragma once
 #include"QString"
-
-
-
-// 左侧的按钮
-// style.h
-
-#include "QString"
-
 namespace style {
 inline const QString NAV_BUTTON_INACTIVE = R"(
     QPushButton {
@@ -51,6 +43,20 @@ const QString ADDFRIEND_BUTTON = R"(
         background-color:rgb(240,240,240);
     }
 )";
+
+
+inline const QString MID_COMPONENT_MOUTH_CLICK = R"(
+    QWidget{
+       background-color: rgb(180,180,180);
+    }
+)";
+
+inline const QString MID_COMPONENT_MOUTH_HOVER = R"(
+    QWidget{
+        background-color: rgb(215,215,215);
+    }
+)";
+
 
 } // namespace style
 

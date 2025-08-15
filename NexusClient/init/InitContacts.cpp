@@ -15,10 +15,13 @@ void ClientWindow::InitContacts()
 {
     // 这个是网状布局
     QGridLayout* layout = new QGridLayout();
+
     // 设置边距
     layout->setContentsMargins(0,20,0,20);
-    layout->setSpacing(10);
+    layout->setVerticalSpacing(10);
+    layout->setHorizontalSpacing(0);
     contacts_column->setLayout(layout);
+
     // QPushButton*add_friend; // 增加好友按钮
     // QLineEdit* search_edit; // 搜索框
     search_edit = new QLineEdit();
@@ -31,6 +34,8 @@ void ClientWindow::InitContacts()
     add_friend->setFixedSize(30, 30);
     add_friend->setIcon(QIcon(":/resource/image/addfriend.png"));
     add_friend->setStyleSheet(style::ADDFRIEND_BUTTON);
+
+    // 下面几个 头像 和 聊天的窗口 中间部分
     MidSessionFriendAread* midsessionfriend = new MidSessionFriendAread();
 
     // 增加一些空的 widght 当作间隔

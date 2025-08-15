@@ -11,28 +11,28 @@
 MidSessionFriendAread::MidSessionFriendAread(QWidget *parent)
     : QScrollArea{parent}
 {
+    // 参数设置
+    current = nullptr;
+
     // 设置必要的属性
     // 这样就可以 实现 滑动了
-    this->setWidgetResizable(true);
-
     // 设置垂直划线
-    this->verticalScrollBar()->setStyleSheet(style::MIDSCROLLERBAY_HEIGHT);
-
     // 设置水平方向的
-    this->horizontalScrollBar()->setStyleSheet(style::MIDSCROLLERBAY_WIDTH);
-
+    this->setWidgetResizable(true);
+    this->verticalScrollBar()->setStyleSheet(style::MIDSCROLLERBAY_HEIGHT);
+    this->horizontalScrollBar()->setStyleSheet(style::MIDSCROLLERBAY_WIDTH); // 这个是为了隐藏的
     container = new QWidget();
     container->setFixedWidth(310);
     this->setWidget(container);
 
     // 设置一个布局管理器 方便之后 加入数据
+    // 向上对齐
     QVBoxLayout* layout = new QVBoxLayout();
     layout->setContentsMargins(0,0,0,0);
-    // layout->setHorizontalSpacing(10);
     layout->setSpacing(0);
-    // 向上对齐
     layout->setAlignment(Qt::AlignTop);
     container->setLayout(layout);
+
 
     // DEBUG
     MY_LOG_INF("debug ...");
@@ -58,10 +58,10 @@ void MidSessionFriendAread::paintEvent(QPaintEvent* event)
 }
 
 
+
 ////////////////////////////////////////////////////////
 /// 增加元素的函数
 ////////////////////////////////////////////////////////
-
 void MidSessionFriendAread::AddItem(
     const QIcon& avator,
     const QString& name,
@@ -69,7 +69,6 @@ void MidSessionFriendAread::AddItem(
     )
 {
     // z增加那妞
-
     SessionFriendItem* item = new SessionFriendItem(
         this,
         avator,
@@ -77,8 +76,8 @@ void MidSessionFriendAread::AddItem(
         text
         );
 
+    connect(item,&SessionFriendItem::Clicked,this,&MidSessionFriendAread::OnSessionChildClick);
     container->layout()->addWidget(item);
-
 }
 
 
@@ -101,12 +100,27 @@ void MidSessionFriendAread::ClearItem(){
         QLayoutItem* item = layout->takeAt(i);
         if(item->widget())
         {
-            delete item->widget();
+            auto widget = item->widget();
+            widget->deleteLater();
         }
     }
     // 开发中不建议使用 无符号类型
 }
 
+
+void MidSessionFriendAread::OnSessionChildClick(SessionFriendItem* item)
+{
+    MY_LOG_INF("ftr deal cld clicked...");
+    if(current && current!= item)
+    {
+        current->SetSatus(false);
+    }
+
+    if (item) {
+        item->SetSatus(true);
+        current = item;
+    }
+}
 
 
 
@@ -131,14 +145,14 @@ SessionFriendItem::SessionFriendItem(
     QGridLayout* layout = new QGridLayout();
     layout->setContentsMargins(0,0,0,0);
     layout->setVerticalSpacing(0);
-    layout->setHorizontalSpacing(10);
+    layout->setHorizontalSpacing(0);
     this->setLayout(layout);
 
 
     // 创建头像
     QPushButton* button = new QPushButton();
-    button->setFixedSize(50,50);
-    button->setIconSize(QSize(50,50)); // 设置图片尺寸
+    button->setFixedSize(70,70);
+    button->setIconSize(QSize(60,60)); // 设置图片尺寸
     button->setIcon(avator); // 设置头像
     button->setStyleSheet(style::MIDSCROLLERBAY_AVATOR); // 设置样式
     button->setSizePolicy(QSizePolicy::Fixed,QSizePolicy::Fixed); // 就是不随着 父进行变化
@@ -154,31 +168,72 @@ SessionFriendItem::SessionFriendItem(
     QLabel* massage = new QLabel();
     massage->setText(text);
     massage->setFixedHeight(35);
-    name_label->setSizePolicy(QSizePolicy::Expanding,QSizePolicy::Fixed);
+    massage->setSizePolicy(QSizePolicy::Expanding,QSizePolicy::Fixed);
 
 
     // 加入到布局管理器里面
-    layout->addWidget(button,0,0,2,2); // 头像
-    layout->addWidget(name_label,0,2,1,1); // 名字 一行一列
-    layout->addWidget(massage,1,2,1,1); // 消息一行一列
+    layout->addWidget(button,0,0,2,1); // 头像
+    layout->addWidget(name_label,0,1,1,1); // 名字 一行一列
+    layout->addWidget(massage,1,1,1,1); // 消息一行一列
 }
 
 
 
+////////////////////////////////////////////////////////
+/// 中间层的 组件之一 点击效果
+////////////////////////////////////////////////////////
+void SessionFriendItem::mousePressEvent(QMouseEvent* event)
+{
+    // 点击的时候 修改背景色
+    emit Clicked(this);
+    QWidget::mousePressEvent(event);
+}
 
 
 
+////////////////////////////////////////////////////////
+/// 中间层的 组件之一 鼠标进入效果 和出去的效果
+////////////////////////////////////////////////////////
+void SessionFriendItem::enterEvent(QEnterEvent*event)
+{
+    if(!this->selected)
+    {
+        this->setStyleSheet(style::MID_COMPONENT_MOUTH_HOVER);
+    }
+    QWidget::enterEvent(event);
+}
+void SessionFriendItem::leaveEvent(QEvent* event)
+{
+    if(!this->selected)
+    {
+        this->setStyleSheet(style::MIDSCROLLERBAY_FRIENDITEM);
+    }
+    QWidget::leaveEvent(event);
+}
 
 
 
-
-
-
-
-
-
-
-
-
-
+////////////////////////////////////////////////////////
+/// 中间层的 组件之一 设置状态
+////////////////////////////////////////////////////////
+void SessionFriendItem::SetSatus(bool status)
+{
+    if(selected == status) return;
+    selected = status;
+    if(!status)
+    {
+        // 如果没有选中
+        if(!this->underMouse())
+        {
+            this->setStyleSheet(style::MIDSCROLLERBAY_FRIENDITEM);
+        }
+        else{
+            this->setStyleSheet(style::MID_COMPONENT_MOUTH_HOVER);
+        }
+    }
+    else{
+        // 说明被点击了
+        this->setStyleSheet(style::MID_COMPONENT_MOUTH_CLICK);
+    }
+}
 
