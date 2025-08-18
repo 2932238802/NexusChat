@@ -2,8 +2,9 @@
 #include"Qstring"
 #include"QIcon"
 #include"UserInfo.h"
-
+#include<QPushButton>
 #include"../common/MessageType.h"
+
 
 namespace model
 {

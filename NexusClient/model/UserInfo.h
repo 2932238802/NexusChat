@@ -11,6 +11,7 @@ namespace model
      */
     class UserInfo{
 
+    public:
         QString user_id = "";
         QString nick_name = "" ;
         QString description = "" ;        // 这个是用户签名

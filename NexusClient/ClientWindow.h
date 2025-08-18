@@ -1,9 +1,14 @@
 #pragma once
 
-#include <QWidget>
+#include<QWidget>
+#include<QVBoxLayout>
+#include<QLabel>
+#include"common/DeBug.h"
 #include"QPushButton"
 #include"common/Status.h"
 #include"qlineedit.h"
+#include"component/MessageShow.h"
+#include"component/MessageEdit.h"
 
 class ClientWindow : public QWidget
 {
@@ -52,5 +57,10 @@ private:
 
     // 搜索框
     QLineEdit* search_edit;
+
+    //
+    MessageShow* messageShow;
+    MessageEdit* messageEdit;
+
 };
 

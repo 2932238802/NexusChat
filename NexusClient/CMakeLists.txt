@@ -1,95 +1,126 @@
 
-cmake_minimum_required(VERSION 3.19)
+cmake_minimum_required(VERSION 3.20)
+
 project(NexusClient LANGUAGES CXX)
-
-
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 
+
 find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets)
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
-set(APP_SOURCES
+find_package(Qt6 REQUIRED COMPONENTS Widgets)
+
+set(PROJECT_SOURCES
     main.cpp
     ClientWindow.cpp
-)
-set(APP_HEADERS
-    ClientWindow.h
+    init/InitSignalSlot.cpp
+    init/InitMainWindow.cpp
+    init/InitNavigation.cpp
+    init/InitContacts.cpp
+    init/InitForchat.cpp
+    load/LoadAccess.cpp
+    load/LoadChat.cpp
+    load/LoadFriend.cpp
+    component/MidSessionFriendAread.cpp
+    component/FriendsLists.cpp
+    component/ApplyLists.cpp
+    component/SessionLists.cpp
+    component/Baseitem.cpp
+    component/MessageShow.cpp
+    component/MessageEdit.cpp
 )
 
-set(MODEL_HEADERS
+# 统一管理所有 .h 头文件
+set(PROJECT_HEADERS
+    ClientWindow.h
     model/UserInfo.h
     model/ChatSessionInfo.h
     model/Message.h
-)
-set(FACTORY_HEADERS
     factory/MsgFac.h
-)
-
-set(TOOL_HEADERS
     tool/MakeId.h
     tool/MakeTime.h
     tool/Byte2Icon.h
     tool/ReadFile.h
-)
-
-set(COMMON_HEADERS
     common/MessageType.h
     common/MyLog.h
     common/Status.h
-)
+    common/Debug.h
 
-set(STYLE_HEADERS
-    style/ButtonStyle.h
-    style/LineEditStyle.h
-    style/ScrollbarStyle.h
-)
-
-set(CONPONENT_HEADERS
-    component/midsessionfriendaread.h
+    style/Style.h
+    component/MidSessionFriendAread.h
+    component/ApplyLists.h
+    component/FriendsLists.h
+    component/SessionLists.h
+    component/Baseitem.h
+    component/MessageShow.h
+    component/MessageEdit.h
 )
 
 qt_add_executable(NexusClient
     WIN32 MACOSX_BUNDLE
-    ${APP_SOURCES}
-    ${APP_HEADERS}
-    ${MODEL_HEADERS}
-    ${FACTORY_HEADERS}
-    ${TOOL_HEADERS}
-    ${COMMON_HEADERS}
-    ${STYLE_HEADERS}
-    ${CONPONENT_HEADERS}
+    ${PROJECT_SOURCES}
+    ${PROJECT_HEADERS}
     resource.qrc
-    init/InitSignalSlot.cpp
-    init/InitMainWindow.cpp
-    init/InitNavigation.cpp
-
-    load/LoadAccess.cpp
-    load/LoadChat.cpp
-    load/LoadFriend.cpp
-    init/InitContacts.cpp
-    init/InitForchat.cpp
-    component/midsessionfriendaread.cpp
-    Debug.h
+    logs/DeBug.log
+    component/MessageEdit.cpp component/MessageEdit.h
 
 )
 
-source_group("Source Files" FILES ${APP_SOURCES})
-source_group("Header Files" FILES ${APP_HEADERS})
-source_group("Header Files\\Model"  FILES ${MODEL_HEADERS})
-source_group("Header Files\\Factory" FILES ${FACTORY_HEADERS})
-source_group("Header Files\\Tool"   FILES ${TOOL_HEADERS})
+target_include_directories(NexusClient PRIVATE
+    ${CMAKE_SOURCE_DIR}
+)
+
 
 target_link_libraries(NexusClient PRIVATE
     Qt::Core
     Qt::Widgets
 )
 target_link_libraries(NexusClient PRIVATE Qt6::Widgets)
+target_link_libraries(NexusClient PRIVATE Qt6::Widgets)
+
+
+source_group("Source Files" FILES ${PROJECT_SOURCES})
+source_group("Header Files" FILES ${PROJECT_HEADERS})
+
+source_group("Header Files\\Model" FILES
+    model/UserInfo.h
+    model/ChatSessionInfo.h
+    model/Message.h
+)
+source_group("Header Files\\Factory" FILES
+    factory/MsgFac.h
+)
+source_group("Header Files\\Tool" FILES
+    tool/MakeId.h
+    tool/MakeTime.h
+    tool/Byte2Icon.h
+    tool/ReadFile.h
+)
+source_group("Header Files\\Common" FILES
+    common/MessageType.h
+    common/MyLog.h
+    common/Status.h
+    common/Debug.h
+)
+source_group("Header Files\\Style" FILES
+    style/ButtonStyle.h
+    style/LineEditStyle.h
+    style/ScrollbarStyle.h
+)
+source_group("Header Files\\Component" FILES
+    component/MidSessionFriendAread.h
+    component/ApplyLists.h
+    component/FriendsList.h
+    component/SessionLists.h
+    component/Baseitem.h
+)
 
 
 include(GNUInstallDirs)
+
 
 install(TARGETS NexusClient
     BUNDLE  DESTINATION .

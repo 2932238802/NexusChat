@@ -6,6 +6,7 @@
 
 #include <iostream>
 #include <string>
+#include<fstream>
 
 // #define tag QString("[%1]").arg(QString::number(__LINE__))
 namespace common
@@ -49,6 +50,7 @@ inline const char *GetFile(const char *str)
 
 class MyLog
 {
+
   public:
     template <class... Args> static void Log(const char *file, int line, G grade, Args... args)
     {
@@ -76,16 +78,25 @@ class MyLog
 
             break;
         }
+        // 测试专用
+        std::ofstream logFile("D:\\PR\\NexusChat\\NexusClient\\logs\\DeBug.log",std::ios::app);
+
+        if(!logFile.is_open())
+        {
+            std::cout<<("failed to open file ...");
+            return;
+        }
 
         time_t now = time(nullptr);
-        struct tm *tm_now = localtime(&now);
+        struct tm *tmNow = localtime(&now);
         char time_buffer[80];
-        strftime(time_buffer, sizeof(time_buffer), "%Y-%m-%d %H:%M:%S", tm_now);
+        strftime(time_buffer, sizeof(time_buffer), "%Y-%m-%d %H:%M:%S", tmNow);
 
-        std::cout << "[" << time_buffer << "]" << " ";
-        std::cout << "[" << color_str << grade_str << RESET << "]" << " ";
-        std::cout << "[" << BLUE << GetFile(file) << ":" << line << RESET << " @LosAngelous]>>> ";
-        (std::cout << ... << args) << std::endl;
+        logFile<< "[" << time_buffer << "]" << " ";
+        logFile << "[" << color_str << grade_str << RESET << "]" << " ";
+        logFile << "[" << BLUE << GetFile(file) << ":" << line << RESET << " @LosAngelous]>>> ";
+        (logFile << ... << args) << std::flush<<std::endl;
+        logFile.close();
     }
 };
 

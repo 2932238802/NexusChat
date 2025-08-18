@@ -28,9 +28,7 @@ class MsgFac{
         )
 
     {
-
         switch(type){
-
         case common::MessageType::TEXT_TYPE:        // 如果是文件类型
         {
             // 文本消息的处理
@@ -39,9 +37,7 @@ class MsgFac{
             msg.msg_id = tool::MakeId();
             msg.chat_session_id = chat_sessiong_id;
             msg.msg_type = common::MessageType::TEXT_TYPE;
-
             msg.sender = sender;
-
             msg.content = content;
             msg.file_id = "";
             msg.file_name = "";

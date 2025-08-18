@@ -3,7 +3,7 @@
 #include"../style/LineEditStyle.h"
 #include"../style/ButtonStyle.h"
 #include"qgridlayout.h"
-#include"../component/midsessionfriendaread.h"
+#include"../component/MidSessionFriendAread.h"
 #include"../common/MyLog.h"
 
 /**
@@ -54,7 +54,6 @@ void ClientWindow::InitContacts()
     layout->addWidget(search_edit,0,1);
     layout->addWidget(add_friend,0,3);
     layout->addWidget(midsessionfriend,1,0,1,5);
-
 }
 
 

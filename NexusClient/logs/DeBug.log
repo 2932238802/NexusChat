@@ -1,0 +1,399 @@
+[2025-08-18 20:06:31] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:06:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:06:31] [INF[0m] [[34mMidSessionFriendAread.cpp:96[0m @LosAngelous]>>> ApplyLists to add...
+[2025-08-18 20:07:40] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:07:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:08:47] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:08:47] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:08:47] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:08:47] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:08:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:08:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:08:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:08:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:08:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:08:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:08:50] [INF[0m] [[34mMidSessionFriendAread.cpp:148[0m @LosAngelous]>>> son component clicked...
+[2025-08-18 20:08:50] [INF[0m] [[34mSessionLists.cpp:49[0m @LosAngelous]>>> SessionLists clicked
+[2025-08-18 20:08:50] [INF[0m] [[34mMidSessionFriendAread.cpp:148[0m @LosAngelous]>>> son component clicked...
+[2025-08-18 20:08:50] [INF[0m] [[34mSessionLists.cpp:49[0m @LosAngelous]>>> SessionLists clicked
+[2025-08-18 20:08:51] [INF[0m] [[34mMidSessionFriendAread.cpp:148[0m @LosAngelous]>>> son component clicked...
+[2025-08-18 20:08:51] [INF[0m] [[34mSessionLists.cpp:49[0m @LosAngelous]>>> SessionLists clicked
+[2025-08-18 20:08:51] [INF[0m] [[34mMidSessionFriendAread.cpp:148[0m @LosAngelous]>>> son component clicked...
+[2025-08-18 20:08:51] [INF[0m] [[34mSessionLists.cpp:49[0m @LosAngelous]>>> SessionLists clicked
+[2025-08-18 20:08:51] [INF[0m] [[34mMidSessionFriendAread.cpp:148[0m @LosAngelous]>>> son component clicked...
+[2025-08-18 20:08:51] [INF[0m] [[34mSessionLists.cpp:49[0m @LosAngelous]>>> SessionLists clicked
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:09:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:09:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:09:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:09:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:09:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:09:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:12:44] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:12:44] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:12:44] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:12:44] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:12:44] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:12:44] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:05] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:05] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:05] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:05] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:13:05] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:05] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:31] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:31] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:31] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:31] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:13:31] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:13:31] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:03] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:03] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:03] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:03] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:15:03] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:03] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:32] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:32] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:32] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:32] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:15:32] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:32] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:48] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:15:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:15:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:49] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:49] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:49] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:15:49] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:15:49] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:16:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:38] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:38] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:38] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:38] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:16:38] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:16:38] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:04] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:04] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:04] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:04] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:18:04] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:04] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:37] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:37] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:37] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:37] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:18:37] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:18:37] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:19:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:19:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:19:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:19:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:19:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:19:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:06] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:06] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:20:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:20:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:07] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:20:07] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:07] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:43] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:43] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:43] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:43] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:20:43] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:20:43] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:21:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:21:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:21:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:21:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:21:58] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:21:58] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:29] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:29] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:29] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:29] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:23:29] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:29] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:40] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:40] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:40] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:40] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:23:40] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:23:40] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:13] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:13] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:13] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:13] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:24:13] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:13] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 20:24:48] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 20:24:48] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:06:45] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:06:45] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:06:45] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:06:45] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 21:06:45] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:06:45] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:07:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:07:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:07:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:07:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 21:07:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:07:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:08:41] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:08:41] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:08:41] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:08:41] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 21:08:41] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:08:41] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:36[0m @LosAngelous]>>> debug ...
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 0
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:09:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 1
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:09:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 2
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:09:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 3
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:09:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:40[0m @LosAngelous]>>> add item 4
+[2025-08-18 21:09:11] [INF[0m] [[34mMidSessionFriendAread.cpp:104[0m @LosAngelous]>>> SessionLists add!
+[2025-08-18 21:09:11] [[32mSUC[0m] [[34mMidSessionFriendAread.cpp:114[0m @LosAngelous]>>> connected!
